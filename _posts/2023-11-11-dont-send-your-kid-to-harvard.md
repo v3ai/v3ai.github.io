@@ -53,3 +53,6 @@ I know this turned from a bit of a critisism on college prices, then turned to a
 Reecently re-did my website. It looks ok? IDK I removed a lot of personal stuff, and moved it to be more "professional" The photos section could still use some work, and it's pretty sloppy coding to be honest. (used a template, and modified it heavily)
 
 What does the future hold? Not sure, but both of my fkn mopeds are broken at the moment which absoloutely sucks
+
+As a note, I think I'm going to try to move on from who I was. I am the me that I am right now really. Not to say I wont learn from it, but some aspects of the past me feel untrue to the now me. Wow, revolutionary, people change
+Yeah, I know it's not groud breaking, but maybe I've repeated the same story of who I am to myself enough. It serves nobody.
