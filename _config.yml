@@ -1,7 +1,7 @@
 title: Rhett's blog
 author:
   name: Rhett Applestone
-  email: check_my_website@for.email
+  email: 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
