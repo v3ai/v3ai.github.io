@@ -5,7 +5,7 @@ date: 2024-01-21 04:07 -0600
 ---
 
 Hello blog. I havent written in a while. I've had a lot of like kinda eh ideas for blog entrys so I haven't written them. I put this blog on private for a little bit not too long ago.
-It's a hard thing having your written work viewable. I may have a problem with judgement and critisim, and lots of things change too. Opinions change, or you realize that maybe they weren't sincere, or you had
+It's a hard thing having your written work viewable. I may have a problem with judgement and critisim, and lots of things change too. Opinions change, or you realize that maybe they weren't right, or you had
 reasons for having them that werent fully expressed clearly. Plans and ideas change a lot too when you get more information or examine why you wanted to do them in the first place. That's most of the housekeeping,
 lets move on to what's been going on.
 
