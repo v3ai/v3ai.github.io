@@ -39,3 +39,6 @@ with open('list', 'r') as file1:
 
                 
         file2.write(end)
+
+
+print("done")
