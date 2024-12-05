@@ -1,68 +1,16 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<link rel="stylesheet" href="style-list.css">
-
-	</head>
-	<body>
-    <h1 class="top" >Todo List</h1>
-<br>
-<h3>Generals</h3>
-<hr>
-<ul>
-<li>Workout</li>
-<li>Cancel email workspace</li>
-</ul>
-<hr>
-<br>
-<h3>Dates</h3>
-<hr>
-<ul>
-<li>January 18th, Dr Early, 10:30am Herritige House</li>
-</ul>
-<hr>
-<br>
-<h3>Finals</h3>
-<hr>
-<ul>
-<li>DIFF EQ  December 9th, at 10:30am 12:30pm</li>
-<li>CALC 3, December 9: 1:30pm-3:30pm</li>
-<li>Modern December 11, 10:30am-12:30pm</li>
-<li>ECE, Dec 12, 10:30 a.m. 12:00 p.m SERC1059.</li>
-</ul>
-<hr>
-<br>
-<h3>ECE-380</h3>
-<hr>
-<ul>
-<li>Due 12/4 Lab 7</li>
-</ul>
-<hr>
-<br>
-<h3>DIFFERENTIAL EQUATIONS</h3>
-<hr>
-<ul>
-<li>Due 12/05 Section 7.7</li>
-<li>Due 12/8 Quiz 11</li>
-</ul>
-<hr>
-<br>
-<h3>CALC-3</h3>
-<hr>
-<ul>
-<li>Due 12/2 HW 27</li>
-<li>Due 12/2 HW 28</li>
-<li>Project 3 due 12/4</li>
-</ul>
-<hr>
-<br>
-<h3>MODERN PHYSICS</h3>
-<hr>
-<ul>
-<li>Final exam will be on the same topics of exam 1 and 2</li>
-</ul>
-<hr>
-
-	</body>
+  <head>
+    <link rel="stylesheet" href="style-list.css">
+    <!-- Prevent caching of the main HTML file -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+  </head>
+  <body>
+    <h1 class="top">Todo List</h1>
+    <div id="content"></div>
+    <!-- Add a cache-busting query string to script.js -->
+    <script src="script.js?t=<%= new Date().getTime() %>"></script>
+  </body>
 </html>
-
