@@ -1,6 +1,7 @@
 Hardware: T14 Gen 5 with linux mint 22
 
 For a text editor I use the Micro Text editor https://micro-editor.github.io/
+To have good copy paste, install xsel, ie, type "sudo apt install xsel" into your terminal
 
 
 For a browser I use firefox in dark mode with ublock, vimium, ai overview hider, and nav (extension I created, availabe on firefox store), also infy-scroll
