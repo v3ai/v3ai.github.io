@@ -73,3 +73,11 @@ in my ~/.bashrc file i have these aliases
 alias des="cd ~/Desktop"
 alias dow="cd ~/Downloads"
 alias find="find . -iname"
+
+
+I use a tool called qcom to push my git repos to github quick
+
+It can be found here
+https://github.com/v3ai/qcom
+
+
