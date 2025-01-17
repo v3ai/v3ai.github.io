@@ -51,7 +51,6 @@ Also Shift+Alt+(any combo of hjklmnwb) can be used to select text
 https://github.com/sezanzeb/input-remapper
 
 
-
 in my ~/.bashrc file i have these aliases
 
 alias des="cd ~/Desktop"

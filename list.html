@@ -1,0 +1,33 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <!-- Prevent caching of the main HTML file -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
+  </head>
+  <style>
+		h1 {
+	  		text-align: center;
+		}
+	
+		body {
+			font-family: 'Courier New', monospace;
+	  		margin: 0 auto;
+	  		max-width: 40em;
+		}
+
+		img {
+  			display: block;
+			margin-left: auto;
+  			margin-right: auto;
+  			width: 50%;
+			}	
+  </style>
+  <body>
+    <h1 class="top">Todo List</h1>
+    <div id="content"></div>
+    <!-- Add a cache-busting query string to script.js -->
+    <script src="./js/script.js?t=<%= new Date().getTime() %>"></script>
+  </body>
+</html>
