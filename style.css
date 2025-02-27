@@ -1,0 +1,25 @@
+
+body {
+	max-width: 40em;
+	margin: auto;
+	font-family: 'Courier New', monospace;
+	background-color: #262626;
+	color: white;
+}
+
+.line {
+	border: dashed 0.1em white;
+}
+
+.tnb {
+	margin-top: 2em;	
+	margin-bottom: 2em;	
+}
+
+p {
+	padding-left: 3em;
+}
+
+a {
+	color: #AE87FE;
+}
