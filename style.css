@@ -2,12 +2,12 @@ body {
 	max-width: 45em;
 	margin: auto;
 	font-family: 'Courier New', monospace;
-	background-color: #262626;
-	color: white;
+	background-color: #000000;
+	color: #AE87FE;
 }
 
 .line {
-	border: dashed 0.1em white;
+	border: dashed 0.1em #AE87FE;
 }
 
 .tnb {
