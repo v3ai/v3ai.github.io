@@ -3,14 +3,14 @@ body {
     margin: 0 auto;
     font-family: "Courier New", monospace;
     text-align: center;
+    font-size: 1.5em;
 }
 
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 0em;
+  padding: 0em;
   overflow: hidden;
-
 }
 
 li {
@@ -21,7 +21,7 @@ li a {
   display: block;
   color: #AE87FE;
   text-align: center;
-  padding: 14px 16px;
+  padding: 1em 1.5em;
   text-decoration: none;
 }
  
