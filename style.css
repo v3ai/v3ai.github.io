@@ -7,22 +7,20 @@ body {
 }
 
 ul {
-  list-style-type: none;
-  margin: 0em;
-  padding: 0em;
-  overflow: hidden;
+	list-style-type: none;
+	overflow: hidden;
 }
 
 li {
-  float: left;
+	float: left;
 }
 
 li a {
-  display: block;
-  color: #AE87FE;
-  text-align: center;
-  padding: 1em 1.5em;
-  text-decoration: none;
+	display: block;
+	color: #AE87FE;
+	text-align: center;
+	padding: 1em 1em;
+	text-decoration: none;
 }
  
 li a:hover {
